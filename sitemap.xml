@@ -1,23 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://rondoudou.github.io/robots.txt</loc>
-        <lastmod>2014-06-14T20:39:28+02:00</lastmod>
-    </url>
-    <url>
         <loc>http://rondoudou.github.io/blog/</loc>
-        <lastmod>2014-06-15T11:11:48+02:00</lastmod>
+        <lastmod>2014-06-15T15:56:04+02:00</lastmod>
     </url>
     <url>
         <loc>http://rondoudou.github.io/blog/archives/</loc>
-        <lastmod>2014-06-15T11:11:48+02:00</lastmod>
+        <lastmod>2014-06-15T15:56:04+02:00</lastmod>
     </url>
     <url>
         <loc>http://rondoudou.github.io/</loc>
-        <lastmod>2014-06-15T11:11:48+02:00</lastmod>
+        <lastmod>2014-06-15T15:56:04+02:00</lastmod>
     </url>
     <url>
         <loc>http://rondoudou.github.io/archives/</loc>
-        <lastmod>2014-06-15T11:11:48+02:00</lastmod>
+        <lastmod>2014-06-15T15:56:04+02:00</lastmod>
     </url>
 </urlset>
