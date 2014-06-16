@@ -4,7 +4,7 @@
   <title><![CDATA[RondoudoudouDoudoudouDoudoudou]]></title>
   <link href="http://rondoudou.github.io/atom.xml" rel="self"/>
   <link href="http://rondoudou.github.io/"/>
-  <updated>2014-06-15T18:19:50+02:00</updated>
+  <updated>2014-06-16T12:48:43+02:00</updated>
   <id>http://rondoudou.github.io/</id>
   <author>
     <name><![CDATA[A Saiad]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Second Post]]></title>
+    <link href="http://rondoudou.github.io/blog/2014/06/16/second-post/"/>
+    <updated>2014-06-16T12:14:46+02:00</updated>
+    <id>http://rondoudou.github.io/blog/2014/06/16/second-post</id>
+    <content type="html"><![CDATA[<p>this is my second post</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://rondoudou.github.io/blog/2014/06/16/first-post/"/>
+    <updated>2014-06-16T12:14:39+02:00</updated>
+    <id>http://rondoudou.github.io/blog/2014/06/16/first-post</id>
+    <content type="html"><![CDATA[<p> This is my first post</p>
+]]></content>
+  </entry>
   
 </feed>
